@@ -24,3 +24,15 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.headerbg {
+  background: #9bd0af;
+}
+
+.rose {
+  background: #e861ab;
+}
+
+.blulOGO {
+  background: rgb(45, 190, 223);
+}
