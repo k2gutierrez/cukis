@@ -19,7 +19,7 @@ const roboto = Roboto({
 })
 
 export const metadata: Metadata = {
-  title: 'Cuki | Dulces Momentos',
+  title: 'Cukis | Dulces Momentos',
   description: 'Arte comestible para cada ocasión. Galletas artesanales personalizadas para tus eventos.',
 }
 
