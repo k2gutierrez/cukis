@@ -21,7 +21,7 @@ export default function HomePage() {
             {/* Sección de Bienvenida */}
             <div>
               <h3 className="rose text-white font-bold uppercase py-2 px-4 rounded-md text-center text-lg mb-6 shadow">
-                ★ ¡Bienvenida a Nuestro Rincón Dulce! ★
+                ★ ¡Bienvenido a Nuestro Rincón Dulce! ★
               </h3>
               <p className="text-center text-gray-700 text-lg mb-10">
                 Creemos que cada celebración merece un detalle único. Aquí, tus ideas se transforman en deliciosas obras de arte comestibles, hechas a mano con amor y dedicación para hacer tu evento inolvidable.
