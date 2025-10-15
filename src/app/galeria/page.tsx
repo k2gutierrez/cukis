@@ -35,7 +35,7 @@ export default function MenuPage() {
   return (
     <div className="bg-[#FDF6E3] py-12 sm:py-16">
       <div className="container mx-auto px-4">
-        <div className="bg-white border-8 border-[#93C5FD] rounded-2xl shadow-2xl p-6 sm:p-8 md:p-12">
+        <div className="bg-white border-8 border-blue rounded-2xl shadow-2xl p-6 sm:p-8 md:p-12">
           <header className="flex flex-col items-center text-center mb-10">
             <div className="rose text-white font-display text-5xl md:text-6xl py-3 px-10 rounded-full shadow-lg transform -rotate-2">
               Galería de Inspiración

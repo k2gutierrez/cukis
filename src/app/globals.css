@@ -36,3 +36,7 @@ body {
 .blulOGO {
   background: rgb(45, 190, 223);
 }
+
+.border-blue {
+  border-color: rgb(45, 190, 223);
+}
