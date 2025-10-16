@@ -1,6 +1,5 @@
 import Image from 'next/image';
-import qr from "../../../public/cukis1r.png"
-import logo from "../../../public/logo2nobg.png"
+import qr from "../../../public/CUKIS-1024.png"
 
 export default function Cukis() {
 
