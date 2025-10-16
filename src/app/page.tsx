@@ -35,7 +35,7 @@ export default function HomePage() {
               </h3>
               <ul className="space-y-4 text-center text-gray-700 mb-12">
                 <li><strong className="text-gray-900">1. Inspírate:</strong> Piensa en la temática, colores y estilo de tu evento.</li>
-                <li><strong className="text-gray-900">2. Conoce nuestro trabajo:</strong> Visita nuestro galeria de inspiración.</li>
+                <li><strong className="text-gray-900">2. Conoce nuestro trabajo:</strong> Visita nuestra Galeria de Inspiración.</li>
                 <li><strong className="text-gray-900">3. Contáctanos:</strong> Escríbenos por WhatsApp para contarnos tu idea y finalizar los detalles.</li>
               </ul>
             </div>
