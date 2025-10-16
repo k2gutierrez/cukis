@@ -7,7 +7,7 @@ export default function Cukis() {
   return (
     <div className="bg-[#FDF6E3] py-12 sm:py-16">
       <div className="container mx-auto px-4">
-        <div className="bg-white border-8 border-blue rounded-2xl shadow-2xl p-6 sm:p-8 md:p-12">
+        <div className="bg-white border-8 border-blue rounded-2xl shadow-2xl p-1 sm:p-8 md:p-12">
           <header className="flex flex-col items-center text-center mb-10">
             <Image src={qr} alt='https://cukis.com.mx' width={500} height={500} />
           </header>
